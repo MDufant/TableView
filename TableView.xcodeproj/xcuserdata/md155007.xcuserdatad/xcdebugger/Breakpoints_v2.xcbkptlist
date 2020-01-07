@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4194E6F7-51E8-4A86-83AC-D9C5FE129292"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableView/ShowPhotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ShowPhotoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - a7d042f4e344fce0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.photoInfo.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - edcc59a6cee24cec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.photoInfo.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - 9fe7da33fea150fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.photoInfo.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - 7240866f81431891"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.photoInfo.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - 4133cfa39df9348c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TableView.ShowPhotoViewController"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "0C853A24-EB8F-4CDA-9267-E3FC42125EA5 - d38d4b742c66b0f2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.ShowPhotoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableView.ShowPhotoViewController&gt;"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/md155007/Desktop/TableView/TableView/ShowPhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
